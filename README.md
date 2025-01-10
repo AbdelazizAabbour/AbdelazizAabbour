@@ -45,12 +45,12 @@ I am constantly looking for new opportunities to improve my skills and contribut
 ### 1️⃣ [Portfolio personnel](https://github.com/abdelaziz/portfolio)  
 Un site web interactif mettant en avant mes compétences et mes projets.  
 ***"This project is still under development and is not yet complete."***
-![Portfolio Preview](https://user-images.githubusercontent.com/placeholder/portfolio.png) 
+
 
 ### 2️⃣ [Gestionnaire de tâches](https://github.com/abdelaziz/task-manager)  
 Une application web complète pour gérer vos tâches quotidiennes.  
 ***"This project is still under development and is not yet complete."***
-![Task Manager GIF](https://user-images.githubusercontent.com/placeholder/task-manager.gif) 
+
 
 ---
 
