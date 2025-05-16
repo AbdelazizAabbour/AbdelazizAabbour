@@ -1,7 +1,10 @@
 # 👋   Hi I'm Abdelaziz Aabbour !
 
+<div align="center">
+<img width=1000 height=500 src=https://github.com/user-attachments/assets/a97e0d67-acde-437a-a3cb-9160fc58b12b >
+</div>
 
-
+---
 ## 🙋  About me
 
 My name is **Abdelaziz Aabbour**, a developer passionate and motivated by web and software development.
