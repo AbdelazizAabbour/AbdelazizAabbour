@@ -14,7 +14,7 @@ I am constantly looking for new opportunities to improve my skills and contribut
 
 ## 🚀 What I do
 
-- 🌱 Currently, I am working on improving my skills in **Node.js** and **MySQL**.
+- 🌱 Currently, I am working on improving my skills in **Node.js** .
 - 💡 I am passionate about creating innovative projects that combine aesthetics and performance.
 - 🎯 My goal is to become an accomplished full-stack developer.
 
