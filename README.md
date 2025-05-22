@@ -1,8 +1,18 @@
-# <div align="center">👋 Hi I'm Abdelaziz Aabbour! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+👋;I'm+Abdelaziz+Aabbour+🚀;Full+Stack+Developer+💻;Welcome+to+my+Profile!+✨&font=Fira%20Code&center=true&width=380&height=50&color=gradient&vCenter=true&multiline=false&repeat=true&pause=1000&duration=4000" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-  <img width="1000" height="400" src="https://github.com/user-attachments/assets/a97e0d67-acde-437a-a3cb-9160fc58b12b" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelaziz%20Aabbour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descSize=16&descAlignY=51"/>
 </div>
+
+<div align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> *About Me*
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=200px>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
