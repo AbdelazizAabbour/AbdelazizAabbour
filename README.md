@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+👋;I'm+Abdelaziz+Aabbour+🚀;Full+Stack+Developer+💻;Welcome+to+my+Profile!+✨&font=Fira%20Code&center=true&width=380&height=50&color=gradient&vCenter=true&multiline=false&repeat=true&pause=1000&duration=4000" alt="Typing SVG" />
-</h1>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelaziz%20Aabbour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descSize=16&descAlignY=51"/>
@@ -9,15 +7,13 @@
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
-</div>
+
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 My name is **Abdelaziz Aabbour**, a developer passionate and motivated by web and software development.
 I am constantly looking for new opportunities to improve my skills and contribute to innovative projects.
@@ -142,12 +138,11 @@ const abdelaziz = {
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   
   **Thanks for visiting my profile! Let's build something amazing together! 🚀**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=abdelaziz-aabbour&color=brightgreen)
-</div>
 
----
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Happy+Coding!+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Love+to+Collaborate+%F0%9F%A4%9D&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=18&pause=1000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
+
+<div align="center">
