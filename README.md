@@ -1,148 +1,103 @@
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelaziz%20Aabbour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descSize=16&descAlignY=51"/>
 </div>
 
+---
 
+## 👋 About Me
 
-
-
+I’m **Abdelaziz Aabbour**, a passionate full-stack developer.  
+- 🔭 Working on Full-Stack Development  
+- 🌱 Learning Node.js, React.js & Laravel  
+- 👯 Open to collaborate on Open Source  
+- 💬 Ask me about JavaScript, PHP, Laravel  
+- ⚡ I love solving problems with code!
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **About Me**
+## 💻 Skills
 
-<img align="right" alt="Coding" width="400" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-My name is **Abdelaziz Aabbour**, a developer passionate and motivated by web and software development.
-I am constantly looking for new opportunities to improve my skills and contribute to innovative projects.
-
-- 🔭 I'm currently working on **Full-Stack Development**
-- 🌱 I'm currently learning **Node.js & React.js**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, JavaScript, PHP**
-- ⚡ Fun fact: **I love solving problems with code!**
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **What I Do**
-
-```javascript
-const abdelaziz = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "PHP", "HTML", "CSS", "SQL"],
-    askMeAbout: ["web dev", "tech", "app dev", "database design"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS"],
-            css: ["Bootstrap", "Tailwind CSS"]
-        },
-        backEnd: {
-            php: ["Native PHP"],
-            js: ["Node.js"]
-        },
-        databases: ["MySQL"],
-        misc: ["Git", "GitHub"]
-    },
-    currentFocus: "Learning Node.js and building full-stack applications",
-    funFact: "I debug with console.log() and I'm not ashamed of it!"
-};
-```
-
----
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"> **Technical Skills**
-
-<div align="center">
-
-### 💻 **Programming Languages**
+### Programming Languages  
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=fade" alt="HTML5" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=fade" alt="CSS3" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=fade" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=fade" alt="PHP" /> 
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white&animation=fade" alt="SQL" /> 
 </p>
 
-### 🛠️ **Frameworks & Tools**
+### Frameworks & Tools  
 <p>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin" alt="React" /> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&animation=fade" alt="Laravel" /> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&animation=fade" alt="Bootstrap" /> 
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=fade" alt="Tailwind CSS" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=fade" alt="Node.js" /> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=fade" alt="MySQL" /> 
 </p>
 
-</div>
-
-### 🎯 **Other Skills**
-- ✨ Creation of dynamic and interactive web interfaces
-- 🗄️ Design and management of databases
-- 🔧 Back-end development and API integration
-- 🤝 Good command of collaboration tools (Git, GitHub)
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Recent Projects**
-
-<div align="center">
-
-| Project | Description | Status | Tech Stack |
-|---------|-------------|--------|------------|
-| 🎨 **[Personal Portfolio](https://github.com/abdelaziz-aabbour/portfolio)** | Interactive website highlighting my skills and projects | 🚧 In Development | HTML, CSS, JavaScript |
-| 📝 **[Task Manager](https://github.com/abdelaziz-aabbour/task-manager)** | Complete web application to manage daily tasks | 🚧 In Development | PHP, MySQL, Bootstrap |
-
-</div>
+### Design & OS  
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&animation=fade" alt="Figma" /> 
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&animation=fade" alt="Photoshop" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=fade" alt="Linux" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=fade" alt="Git" /> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="GitHub" /> 
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> **GitHub Stats**
+## 🚀 Projects
 
-<div align="center">
-  
-![Abdelaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelaziz-aabbour&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-aabbour&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-aabbour&theme=radical&hide_border=true)
-
-</div>
+- **Personal Portfolio** (React.js, Tailwind CSS) – *In progress*  
+- **Task Manager** (Laravel, MySQL) – *In progress*  
+- **E-commerce Platform** (React.js, Node.js, MongoDB) – *Planned*
 
 ---
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> **Upcoming Goals**
+## 🎯 Goals
 
-- 🎯 Learn and master **React.js** and **Laravel**
-- 🤝 Collaborate on **open-source projects** to strengthen team skills
-- 🏆 Participate in **hackathons** for stimulating technical challenges
-- 📚 Expand knowledge in **modern web technologies**
-- 🌟 Build a **strong developer community presence**
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin" alt="React.js" /> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&animation=fade" alt="Laravel" /> 
+</p>
+
+- Master React.js & Laravel  
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=fade" alt="Linux" />
+</p>
+
+- Improve Linux skills  
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&animation=fade" alt="Figma" />
+</p>
+
+- Enhance UI/UX design  
+
+<p>
+  <img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="Open Source" />
+</p>
+
+- Contribute more to open source  
+
+<p>
+  <img src="https://img.shields.io/badge/Hackathons-008080?style=for-the-badge&logo=devpost&logoColor=white&animation=fade" alt="Hackathons" />
+</p>
+
+- Join hackathons and challenges  
 
 ---
 
-## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> **Let's Connect!**
+## 📫 Let's Connect!
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelaziz.aabbour@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-aabour-a74371301)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelaziz-aabbour)
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade)](https://github.com/yourusername)
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-  
-  **Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
-
-<div align="center">
