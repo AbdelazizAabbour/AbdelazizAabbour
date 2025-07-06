@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelaziz%20Aabbour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aziz%20Aabbour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descSize=16&descAlignY=51"/>
 </div>
 
 ---
 
 ## 👋 About Me
 
-I’m **Abdelaziz Aabbour**, a passionate full-stack developer.  
+I’m **Aziz Aabbour**, a passionate full-stack developer.  
 - 🔭 Working on Full-Stack Development  
 - 🌱 Learning Node.js, React.js & Laravel  
 - 👯 Open to collaborate on Open Source  
