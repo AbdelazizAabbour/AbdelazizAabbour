@@ -49,7 +49,7 @@ I’m **Aziz Aabbour**, a passionate full-stack developer.
 
 ## 🚀 Projects
 
-- **Personal Portfolio** (React.js, Tailwind CSS) – *In progress*  
+- **Personal Portfolio** (React.js, Tailwind CSS) – (https://creolab.rf.gd/?i=1) 
 - **Task Manager** (Laravel, MySQL) – *In progress*  
 - **E-commerce Platform** (React.js, Node.js, MongoDB) – *Planned*
 
