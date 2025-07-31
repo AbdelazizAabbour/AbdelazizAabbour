@@ -1,103 +1,123 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aziz%20Aabbour&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descSize=16&descAlignY=51"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ED6FF,100:2F80ED&height=200&section=header&text=Aziz%20Aabbour&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=60&animation=twinkling" />
 </div>
 
----
-
-## 👋 About Me
-
-I’m **Aziz Aabbour**, a passionate full-stack developer.  
-- 🔭 Working on Full-Stack Development  
-- 🌱 Learning Node.js, React.js & Laravel  
-- 👯 Open to collaborate on Open Source  
-- 💬 Ask me about JavaScript, PHP, Laravel  
-- ⚡ I love solving problems with code!
-
----
-
-## 💻 Skills
-
-### Programming Languages  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=fade" alt="HTML5" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=fade" alt="CSS3" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=fade" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=fade" alt="PHP" /> 
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white&animation=fade" alt="SQL" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Aziz+Aabbour+!;Full-Stack+Web+Developer;Problem+Solver+%7C+Tech+Lover;Welcome+to+my+GitHub+profile+" />
 </p>
 
-### Frameworks & Tools  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin" alt="React" /> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&animation=fade" alt="Laravel" /> 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&animation=fade" alt="Bootstrap" /> 
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=fade" alt="Tailwind CSS" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=fade" alt="Node.js" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=fade" alt="MySQL" /> 
-</p>
-
-### Design & OS  
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&animation=fade" alt="Figma" /> 
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&animation=fade" alt="Photoshop" /> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=fade" alt="Linux" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=fade" alt="Git" /> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="GitHub" /> 
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🧑‍💻 About Me
 
-- **Personal Portfolio** (React.js, Tailwind CSS) – (https://creolab.rf.gd/?i=1) 
-- **Task Manager** (Laravel, MySQL) – *In progress*  
-- **E-commerce Platform** (React.js, Node.js, MongoDB) – *Planned*
+Hello! I’m *Aziz Aabbour*, a curious and creative full-stack developer from Morocco.  
+I love building sleek user interfaces, solving problems, and learning new tools every day.
 
----
-
-## 🎯 Goals
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin" alt="React.js" /> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&animation=fade" alt="Laravel" /> 
-</p>
-
-- Master React.js & Laravel  
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=fade" alt="Linux" />
-</p>
-
-- Improve Linux skills  
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&animation=fade" alt="Figma" />
-</p>
-
-- Enhance UI/UX design  
-
-<p>
-  <img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="Open Source" />
-</p>
-
-- Contribute more to open source  
-
-<p>
-  <img src="https://img.shields.io/badge/Hackathons-008080?style=for-the-badge&logo=devpost&logoColor=white&animation=fade" alt="Hackathons" />
-</p>
-
-- Join hackathons and challenges  
+- 🌱 Currently diving deep into *React.js, **Node.js* and *Laravel*
+- 🛠 Building cool apps & automation tools
+- 🌍 Passionate about open-source and community
+- 🎯 Always improving Linux and UI/UX design skills
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 Tech Stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade)](mailto:your-email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade)](https://github.com/yourusername)
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql" />
+</p>
+
+### 🧰 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,bootstrap" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,linux" />
+</p>
+
+---
+
+## 🧠 Projects
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>💼 Project</th>
+      <th>💻 Technologies</th>
+      <th>📌 Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://creolab.rf.gd/?i=1">🌐 Portfolio</a></td>
+      <td>React, Tailwind</td>
+      <td>✅ Live</td>
+    </tr>
+    <tr>
+      <td>✅ Task Manager</td>
+      <td>Laravel, MySQL</td>
+      <td>🚧 In Progress</td>
+    </tr>
+    <tr>
+      <td>🛒 E-commerce Platform</td>
+      <td>React, Node.js, MongoDB</td>
+      <td>🧪 Planned</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="300" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blueberry&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=blueberry&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Maîtriser *React.js* & *Laravel*
+- 💡 Participer à + de *Hackathons*
+- 🧠 Créer des mini outils open-source utiles
+- 🐧 Devenir à l’aise avec *Linux*
+- 🎨 Développer mon œil pour le *UI/UX*
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ED6FF,100:2F80ED&height=120&section=footer" />
 </div>
