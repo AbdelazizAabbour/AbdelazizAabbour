@@ -1,14 +1,15 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ED6FF,100:2F80ED&height=200&section=header&text=Aziz%20Aabbour&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=60&animation=twinkling" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ED6FF,100:2F80ED&height=200&section=header&text=Aziz%20Aabbour&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=60&animation=twinkling" /> </div>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Aziz+Aabbour+!;Full-Stack+Web+Developer;Problem+Solver+%7C+Tech+Lover;Welcome+to+my+GitHub+profile+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Aziz+Aabbour+!;Full-Stack+Web+Developer+%26+Mobile+Developer;Problem+Solver+%7C+Tech+Lover;Welcome+to+my+GitHub+profile+" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280" />
 </p>
+
 
 ---
 
