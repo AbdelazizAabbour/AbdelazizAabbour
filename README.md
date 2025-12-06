@@ -34,7 +34,7 @@
 ```javascript
 class Developer {
   constructor() {
-    this.name = "Elite Developer";
+    this.name = "AABBOUR ABDELAZIZ";
     this.role = "Full Stack & Mobile Engineer";
     this.location = "🌍 Casablanca, Morocco";
     this.expertise = ["Web", "Mobile", "Cloud", "Design"];
