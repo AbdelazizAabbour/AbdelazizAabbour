@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+Mobile+Expert+%F0%9F%9A%80;Crafting+Experiences%2C+Building+Solutions+%E2%9C%A8;Let's+Code+the+Future+Together!+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+
 
 <br/>
 
